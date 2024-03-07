@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "1067303724810",
+    "firebase_url": "https://bpiapp-ef5b7.firebaseio.com",
+    "project_id": "bpiapp-ef5b7",
+    "storage_bucket": "bpiapp-ef5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:06974d5d0633451473bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.BPIAppEmpresasShellDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:e7748bb40f17505d73bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.BPIAppEmpresasShellPP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:0a9d2a71edb261ae73bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.BPIAppEmpresasShellQua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:abba630b31b3b56573bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.mobile.autorizacoesempresas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:d708a9d704e9cc2c73bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.mobile.fiabilizacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:86872d5e6a08317f73bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.mobile.fiabilizacao.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:b8d36540dd55972973bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.mobile.fiabilizacao.pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067303724810:android:a22893cdfd9fa5be73bcf3",
+        "android_client_info": {
+          "package_name": "pt.bancobpi.mobile.fiabilizacao.qua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJEdCCYzw1ZPnNMcmxzc2PPQH3reh2IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067303724810-h2s8v75l189dmtrsntndnnoigbrchi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
