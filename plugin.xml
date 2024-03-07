@@ -92,7 +92,7 @@
       <string>production</string>
     </config-file>
 
-    <dependency id="outsystems.experts.podprojectfixiosversion" url="https://github.com/os-adv-dev/PodTargetsFixIosVersion.git" commit="cordova-ios-7.0" />
+    <dependency id="outsystems.experts.podprojectfixiosversion" url="https://github.com/os-adv-dev/cordova-plugin-pod-target-fix.git" commit="cordova-ios-7.0" />
     
     <source-file src="src/ios/AppDelegate+notification.m"/>
     <source-file src="src/ios/PushPlugin.m"/>
